@@ -1,0 +1,15 @@
+                               precision    recall  f1-score   support
+
+            Actinic_keratoses       0.75      0.68      0.71        65
+         Basal_cell_carcinoma       0.77      0.80      0.78        91
+Benign_keratosis-like_lesions       0.88      0.76      0.81       225
+               Dermatofibroma       0.96      0.76      0.85        29
+             Melanocytic_nevi       0.95      0.98      0.97      1336
+             Vascular_lesions       1.00      0.95      0.98        21
+                     melanoma       0.87      0.83      0.85       225
+
+                     accuracy                           0.92      1992
+                    macro avg       0.88      0.82      0.85      1992
+                 weighted avg       0.92      0.92      0.92      1992
+
+Accuracy: 0.9187
